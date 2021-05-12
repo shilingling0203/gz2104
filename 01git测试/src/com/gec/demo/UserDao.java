@@ -7,4 +7,6 @@ public interface UserDao {
 	
 	//aaa的代码
 	void aaa_add();
+	
+	void bb();
 }
